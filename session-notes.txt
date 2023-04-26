@@ -1,3 +1,6 @@
 git branch -> show all branches
 git branch "branchname" -> creates new branch with branchname
 git checkout "branchname" -> switches to branch with "branchname"
+git merge "branchname" -> merges the current branch with "branchname"
+git push "alias" "branchname" -> Transmit local "branchname" commits to the remote repository
+git pull -> fetch and merge any commits from the tracking remote branch
