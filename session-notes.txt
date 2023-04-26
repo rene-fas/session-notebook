@@ -1,0 +1,3 @@
+git branch -> show all branches
+git branch "branchname" -> creates new branch with branchname
+git checkout "branchname" -> switches to branch with "branchname"
